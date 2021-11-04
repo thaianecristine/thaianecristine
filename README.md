@@ -1,10 +1,10 @@
 Olá, Sou a Thaiane, podem me chamar de Thai.
 
-👩🏽‍💻 Em transição de carreira.
+👩🏽‍💻  Em transição de carreira.
 
-👩🏽‍🎓 Participando da 6ª geração da Laboratória Brasil.
+👩🏽‍🎓  Participando da 6ª geração da Laboratória Brasil.
 
-📫 Contacte-me pelo e-mail: thaiane_cristine@hotmail.com 
+📫  Contacte-me pelo e-mail: thaiane_cristine@hotmail.com 
 
 <div align="center">
   <a href="https://github.com/thaianecristine">
